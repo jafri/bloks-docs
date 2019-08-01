@@ -1,23 +1,14 @@
-# Initial page
+---
+description: >-
+  An easy step-by-step guide on how to access and maximize the full potential of
+  Bloks.io.
+---
 
-## Getting Super Powers
+# Bloks.io
 
-Becoming a super hero is a fairly straight forward process:
+Originally launched as a simple block explorer for EOS, Bloks.io has evolved into a multifunctional EOSIO platform supporting various networks and allowing users to login and use wallet functions. 
 
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
+![](.gitbook/assets/image%20%2810%29.png)
 
 
 
