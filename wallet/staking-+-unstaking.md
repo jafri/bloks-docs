@@ -14,7 +14,7 @@ The process of unstaking your EOS takes a **total of 72 hours** from the moment 
 
 ### 2. Select **Stake CPU/NET** from the left side menu.
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 ### 3. If you are logged into your account via a wallet supported by Bloks \(Scatter, Ledger, etc.\), the field Receiver of Stake should be autofilled.
 

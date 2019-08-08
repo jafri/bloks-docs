@@ -8,12 +8,14 @@
 * [Desktop Wallets](login/desktop-wallets/README.md)
   * [Scatter](login/desktop-wallets/scatter.md)
   * [Ledger](login/desktop-wallets/ledger.md)
+  * [SimplEOS](login/desktop-wallets/simpleos.md)
+  * [Keycat](login/desktop-wallets/keycat.md)
 * [Mobile Wallets](login/mobile-wallets/README.md)
-  * [SimplEOS](login/mobile-wallets/simpleos.md)
+  * [NovaWallet](login/mobile-wallets/novawallet.md)
+  * [TokenPocket](login/mobile-wallets/tokenpocket.md)
   * [Meetone](login/mobile-wallets/meetone.md)
   * [Lynx](login/mobile-wallets/lynx.md)
 * [Untitled](login/untitled.md)
-* [Keycat](login/keycat.md)
 * [Untitled](login/untitled-1.md)
 
 ## Wallet
