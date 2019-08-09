@@ -10,23 +10,25 @@ The process of unstaking your EOS takes a **total of 72 hours** from the moment 
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ### 2. Select **Stake CPU/NET** from the left side menu.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
 ### 3. If you are logged into your account via a wallet supported by Bloks \(Scatter, Ledger, etc.\), the field Receiver of Stake should be autofilled.
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
-### 4. Enter in the **Amount of CPU/NET to Stake \(in EOS\)**. To make the process more simple, there are buttons to select a percentage of your EOS holdings - 25, 50, 75 and 100%.
+### 4. Enter in the **Amount of CPU/NET to Stake \(in EOS\).**
 
-![](../.gitbook/assets/image%20%286%29.png)
+To make the process more simple, there are buttons to select a percentage of your EOS holdings - 25, 50, 75 and 100%.
+
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### 5. Click the blue button to confirm the amount of CPU/NET you are staking.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 ## HOW TO UNSTAKE EOS
 
@@ -35,7 +37,7 @@ The process of unstaking your EOS takes a **total of 72 hours** from the moment 
 
 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
 
 

@@ -10,11 +10,11 @@ Airgrabbing tokens consume your personal RAM.
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 ### 2. Select **Airgrab Tokens** from the left side menu.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 The Airgrab Tokens page displays the following;
 
@@ -26,6 +26,8 @@ The Airgrab Tokens page displays the following;
 ### 3. Click on the AIRGRAB ALL TOKENS to claim all Airgrab tokens.
 
 You can click the button to AIRGRAB ALL TOKENS or Airgrab individual tokens one at a time by clicking the button under the "Airgrab" column on the far right. 
+
+![](../.gitbook/assets/image%20%281%29.png)
 
 _\*\*\*\*_
 
