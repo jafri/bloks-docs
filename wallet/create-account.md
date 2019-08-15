@@ -4,11 +4,11 @@
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ### 2. Select Create Account ****from the left side menu.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
 The Create Account page has 2 tabs to give users a preferred method to create an account;
 

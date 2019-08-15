@@ -14,8 +14,6 @@
   * [TokenPocket](login/mobile-wallets/tokenpocket.md)
   * [Meetone](login/mobile-wallets/meetone.md)
   * [Lynx](login/mobile-wallets/lynx.md)
-* [Untitled](login/untitled.md)
-* [Untitled](login/untitled-1.md)
 
 ## Wallet
 

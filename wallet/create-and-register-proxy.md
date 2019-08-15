@@ -4,7 +4,7 @@
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
 ### 
 

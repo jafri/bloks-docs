@@ -4,5 +4,5 @@ Mobile wallets allow you to access your EOS accounts on your phone. Some of thes
 
 
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 

@@ -16,11 +16,11 @@ It is important for you to always keep your keys safe. Exposing your Owner Key m
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../../.gitbook/assets/image%20%287%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 ### 2. Select Keys and Permissions ****from the left side menu.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 The Keys and Permissions page displays 3 tabs;
 
