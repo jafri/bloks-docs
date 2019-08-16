@@ -6,6 +6,10 @@ The referendum system is in place on EOS mainnet for token holders to voice thei
 2. At least 55% of all votes must be cast for Yes 
 3. Sustain both of the above thresholds for 30 consecutive day
 
+As a token holder, you are entitled to state your opinion and vote on proposals and 1 token will equal 1 vote. You are allowed to vote for as many proposals as you'd like, and you are also able to leave a comment with your vote. 
+
+EOS Canada has an excellent FAQ for everything related to the EOS Referendum Contract [here](https://www.eoscanada.com/en/answers-to-every-question-you-have-about-the-eos-referendum-contract).
+
 ## HOW TO VOTE FOR A REFERENDUM PROPOSAL
 
 ### **1. Select Vote on the top menu.**
