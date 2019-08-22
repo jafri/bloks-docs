@@ -8,7 +8,7 @@ description: >-
 
 Originally launched as a simple block explorer for EOS, Bloks.io has evolved into a multifunctional EOSIO platform supporting various networks and allowing users to login and use wallet functions. 
 
-![](.gitbook/assets/image%20%2824%29.png)
+![](.gitbook/assets/image%20%2857%29.png)
 
 
 
