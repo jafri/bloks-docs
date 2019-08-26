@@ -1,4 +1,4 @@
-# MSIG
+# Multi-signature \(MSIG\)
 
 ## HOW TO CREATE AN MSIG
 
