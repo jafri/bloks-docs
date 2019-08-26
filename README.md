@@ -4,7 +4,7 @@ description: >-
   Bloks.io.
 ---
 
-# Bloks.io
+# Introduction to Bloks.io
 
 Originally launched as a simple block explorer for EOS, Bloks.io has evolved into a multifunctional EOSIO platform supporting various networks and allowing users to login and use wallet functions. 
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Bloks.io](README.md)
+* [Introduction to Bloks.io](README.md)
 
 ## Login to Bloks <a id="login"></a>
 
