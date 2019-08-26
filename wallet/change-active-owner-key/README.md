@@ -1,4 +1,4 @@
-# Change Active/Owner Key
+# Change Active / Owner Key
 
 An EOS account can have multiple keys associate with it. Each key allows a certain permission to the account it is attached to.
 

@@ -1,4 +1,4 @@
-# Buy/Sell RAM
+# Buy / Sell RAM
 
 RAM 
 

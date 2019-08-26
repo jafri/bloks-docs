@@ -1,4 +1,4 @@
-# Web Key Generator
+# Keys Generator
 
 ## HOW TO USE KEY GENERATOR ON BLOKS
 

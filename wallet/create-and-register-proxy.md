@@ -1,4 +1,4 @@
-# Create and Register Proxy
+# Create / Register Proxy
 
 ## HOW TO CREATE A PROXY
 
@@ -28,7 +28,7 @@ You will receive a Success message with the transaction hash and you have turned
 
 
 
-## HOW TO REGISTER A PROXY
+## HOW TO REGISTER A PROXY <a id="register"></a>
 
 ### 1. Select **Wallet** on the top menu.
 

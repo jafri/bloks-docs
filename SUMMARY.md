@@ -22,17 +22,17 @@
 
 ## Wallet
 
-* [Staking + Unstaking](wallet/staking-+-unstaking.md)
-* [Airgrab](wallet/airgrab.md)
 * [Transfer](wallet/transfer.md)
-* [Buy/Sell RAM](wallet/untitled.md)
+* [Airgrab](wallet/airgrab.md)
+* [Stake CPU / NET](wallet/staking-+-unstaking.md)
+* [Buy / Sell RAM](wallet/untitled.md)
 * [Create Account](wallet/create-account.md)
-* [Change Active/Owner Key](wallet/change-active-owner-key/README.md)
+* [Change Active / Owner Key](wallet/change-active-owner-key/README.md)
   * [Add Custom Permission](wallet/change-active-owner-key/add-custom-permission.md)
   * [Link Auth](wallet/change-active-owner-key/linkauth.md)
 * [MSIG](wallet/msig.md)
-* [Create and Register Proxy](wallet/create-and-register-proxy.md)
-* [Web Key Generator](wallet/web-key-generator.md)
+* [Create / Register Proxy](wallet/create-and-register-proxy.md)
+* [Keys Generator](wallet/web-key-generator.md)
 * [REX](wallet/rex.md)
 
 ## Voting

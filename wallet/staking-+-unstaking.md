@@ -1,4 +1,4 @@
-# Staking + Unstaking
+# Stake CPU / NET
 
 With EOS, you are able to stake or unstake it. Staking means you are locking down your tokens to give you access to resources \(CPU and NET\) that you need to perform actions on the blockchain. 
 
