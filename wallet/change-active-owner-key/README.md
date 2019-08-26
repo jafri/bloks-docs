@@ -16,11 +16,11 @@ It is important for you to always keep your keys safe. Exposing your Owner Key m
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 ### 2. Select Keys and Permissions ****from the left side menu.
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 The Keys and Permissions page displays 3 tabs;
 
@@ -30,19 +30,19 @@ The Keys and Permissions page displays 3 tabs;
 
 If you are logged in with your Owner Key, you should see two fields; New Owner Key and New Active Key.
 
-![When you are logged in with your Owner Key](../../.gitbook/assets/image%20%2863%29.png)
+![When you are logged in with your Owner Key](../../.gitbook/assets/image%20%2865%29.png)
 
-![When you are logged in with your Active Key](../../.gitbook/assets/image%20%28106%29.png)
+![When you are logged in with your Active Key](../../.gitbook/assets/image%20%28109%29.png)
 
 ### 3. Enter your New Active/Owner Key in the respective field. Click Change Permissions.
 
 You can generate new keys by using various methods. The most secure method is to generate a key pairing while you are offline using EOSKEY.io and storing the private key offline where it is safe.
 
-![](../../.gitbook/assets/image%20%2875%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 Confirm that the New Active Key displays under the New Permissions tab identically. Click the Change Permissions button and confirm that the key has been changed when you receive a transaction hash with a Success message.
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 ## Potential Errors
 
@@ -52,13 +52,13 @@ Confirm that the New Active Key displays under the New Permissions tab identical
 You will need to open up Scatter, go to Settings, Firewall, and remove updateauth as a Blacklisted Action.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 
 
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 
 

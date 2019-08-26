@@ -26,7 +26,7 @@ It is important to note that **borrowing CPU/NET is for dApps to buy resources o
 
 ### 2. Select the amount of EOS you'd like to lend. 
 
-![](../.gitbook/assets/image%20%2841%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 It will autofill with the 100% of EOS in your account, but you are free to enter whatever amount you’d like, or use the buttons below to easily select a percentage of your EOS owned.
 
@@ -34,7 +34,7 @@ _NOTE: If you are not currently voting for 21 BPs or proxying your vote, Bloks w
 
 ### 3. View the amount you lent to REX, and the date you are able to unlend.
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 It takes approximately 4 days for loaned EOS to be processed. The example below shows that you have to wait until Sat, May 4, 2019 6:00 PM to Unlend your EOS.This page allows you to lend liquid EOS.
 
@@ -54,11 +54,11 @@ It takes approximately 4 days for loaned EOS to be processed. The example below 
 
 ### 2. Select the amount of EOS you'd like to unlend.
 
-![](../.gitbook/assets/image%20%28132%29.png)
+![](../.gitbook/assets/image%20%28137%29.png)
 
 ### 3. View the amount you lent to REX, and the date you are able to unlend.
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 When you reach the mature day of your EOS in REX, you are able to Unlend. You can select the full amount or auto-calculate by the percentage buttons.
 

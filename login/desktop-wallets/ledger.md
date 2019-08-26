@@ -15,7 +15,7 @@ If you haven’t completed these steps, [click here](https://support.ledger.com/
 
 ### 2. Log into Bloks.io with your Nano Ledger S/X. Select Ledger X or Ledger S as a sign-in option.
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 Head to [Bloks.io](https://bloks.io/) and click on the Login Button on the top right-hand side of the page.
 
@@ -23,11 +23,11 @@ Head to [Bloks.io](https://bloks.io/) and click on the Login Button on the top r
 
 Find **Ledger X or Ledger S** as a sign-in option and select it.
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 Enter **“0,1,2"**, and select either USB or Bluetooth.
 
-![](../../.gitbook/assets/image%20%2887%29.png)
+![](../../.gitbook/assets/image%20%2890%29.png)
 
 If this is the first time using your Ledger, you will see a message similar to the image above stating there are “**No Accounts Found**”. This is to be expected. **Copy** one of the **public keys** displayed onto a notepad.
 
@@ -37,7 +37,7 @@ If you already have an EOS account on another wallet such as Scatter, proceed to
 
 ### 3. Log into your existing account.
 
-![](../../.gitbook/assets/image%20%28118%29.png)
+![](../../.gitbook/assets/image%20%28122%29.png)
 
 Head over to [Bloks Permission Manager.](https://bloks.io/wallet/permissions) Log into your existing EOS account using Scatter or another wallet. Make sure you log in with your **Owner Key**\(can change both Owner and Active\) or **Active Key** \(can only change Active\).
 
@@ -45,7 +45,7 @@ Paste your keys from Step 2 into the fields above and click **Change Permissions
 
 ### 4. Login to Bloks.io with your Ledger S/X and it will show you your account.
 
-![](../../.gitbook/assets/image%20%2895%29.png)
+![](../../.gitbook/assets/image%20%2898%29.png)
 
 Repeat all the steps in Step 2. This time [Bloks.io](https://bloks.io/) should show you the accounts associated with your Ledger key.
 

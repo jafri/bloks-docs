@@ -14,11 +14,11 @@ EOS Canada has an excellent FAQ for everything related to the EOS Referendum Con
 
 ### **1. Select Vote on the top menu.**
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ### 2. Select Referendums.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 The Referendums page displays 4 tabs;
 
@@ -31,7 +31,7 @@ If you'd like to view previous proposals that are expired, check off the box "Cl
 
 ### 3. Select a proposal that you'd like to vote for. It will take you to a detailed page about the proposal.
 
-![](../.gitbook/assets/image%20%2861%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
 The page will show you the proposal ID, proposer, the creation date, expiry date. It also visualizes the total votes with a breakdown of the accounts the votes came from. 
 
@@ -43,9 +43,9 @@ Your options to vote for the proposal are;
 
 ### 4. You will receive a prompt from Scatter to whitelist your action. Click Allow.
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2855%29.png)
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2847%29.png)
 
 Once the above action is whitelisted, you will receive a message with the status of your vote and a link for the transaction.
 

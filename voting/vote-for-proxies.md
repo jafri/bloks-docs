@@ -8,7 +8,7 @@
 
 ### 1. Select **Vote** on the top menu.
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 ### 2. Select Proxies.
 
@@ -18,11 +18,11 @@ You will be able to view all Registered Proxies at first glance. If you'd like t
 
 ### 3. Select the proxy you would like to proxy your votes to. Press the blue SET \_\_\_\_\_ AS PROXY button to proceed.
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 ### 4. If it is the first time you are proxying your votes, you may get a prompt from Scatter to whitelist your action. Click Allow.
 
-![](../.gitbook/assets/image%20%28133%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 Your transaction will be approved once you whitelist the above action. 
 
