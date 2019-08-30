@@ -26,7 +26,7 @@ Click Add New Permission, which will create Permission \#3 where you are able to
 
 You will need to create a new key pair for the new permission. For instructions on how to do so, check out the Web Key Generator page below.
 
-{% page-ref page="../web-key-generator.md" %}
+{% page-ref page="../key-generator.md" %}
 
 Once you've filled in all the fields required, press Save Permission.
 

@@ -7,6 +7,7 @@ Desktop wallets are wallets that you can access through your computer. Desktop w
 * Eostock
 * Keycat
 * Ledger
+* Lynx
 * Math/Leaf
 * Scatter
 * SimplEOS

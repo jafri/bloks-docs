@@ -7,9 +7,9 @@
 * [Desktop Wallets](login/desktop-wallets/README.md)
   * [Anchor](login/desktop-wallets/anchor.md)
   * [cleos/eosc](login/desktop-wallets/cleos-eosc.md)
-  * [Eostock](login/desktop-wallets/eostock.md)
   * [Keycat](login/desktop-wallets/keycat.md)
   * [Ledger](login/desktop-wallets/ledger.md)
+  * [Lynx](login/desktop-wallets/lynx.md)
   * [Math/Leaf](login/desktop-wallets/math-leaf.md)
   * [Scatter](login/desktop-wallets/scatter.md)
   * [SimplEOS](login/desktop-wallets/simpleos.md)
@@ -24,8 +24,8 @@
 
 * [Transfer](wallet/transfer.md)
 * [Airgrab](wallet/airgrab.md)
-* [Stake CPU / NET](wallet/staking-+-unstaking.md)
-* [Buy / Sell RAM](wallet/untitled.md)
+* [Stake CPU / NET](wallet/staking-cpu-+-net.md)
+* [Buy / Sell RAM](wallet/buy-sell-ram.md)
 * [Create Account](wallet/create-account.md)
 * [Change Keys or Permissions](wallet/permissions/README.md)
   * [Change Active / Owner Key](wallet/permissions/change-active-owner-key.md)
@@ -33,7 +33,7 @@
   * [Link Auth](wallet/permissions/linkauth.md)
 * [Multi-signature \(MSIG\)](wallet/msig.md)
 * [Create / Register Proxy](wallet/create-and-register-proxy.md)
-* [Keys Generator](wallet/web-key-generator.md)
+* [Keys Generator](wallet/key-generator.md)
 * [REX](wallet/rex.md)
 
 ## Voting
