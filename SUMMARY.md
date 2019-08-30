@@ -6,7 +6,7 @@
 
 * [Desktop Wallets](login/desktop-wallets/README.md)
   * [Anchor](login/desktop-wallets/anchor.md)
-  * [Cleos/eosc](login/desktop-wallets/cleos-eosc.md)
+  * [cleos/eosc](login/desktop-wallets/cleos-eosc.md)
   * [Eostock](login/desktop-wallets/eostock.md)
   * [Keycat](login/desktop-wallets/keycat.md)
   * [Ledger](login/desktop-wallets/ledger.md)
