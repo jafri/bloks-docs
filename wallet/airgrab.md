@@ -10,11 +10,11 @@ Airgrabbing tokens consume your personal RAM.
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 ### 2. Select **Airgrab Tokens** from the left side menu.
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 The Airgrab Tokens page displays the following;
 

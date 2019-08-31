@@ -6,7 +6,7 @@ EOS's DPOS consensus mechanism allows free, quick and easy transfers between acc
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%28142%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
 ### 2. Transfer Token page should be the initial page under Wallet. \(If for whatever reason it is not, select **Transfer Tokens** from the left side menu.\)
 
@@ -22,7 +22,7 @@ The Transfer Token page has 3 fields for you to fill in;
 
 ### 3. Click on the "Transfer _AMOUNT_ to _USERNAME"_ blue button to complete transfer.
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
 
 

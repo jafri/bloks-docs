@@ -23,37 +23,37 @@ Leaf Wallet is an easy to use EOS wallet that works as a chrome extension.
 
 Visit Math Wallet's website/chrome web store to Add to Chrome.
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 Add Math Wallet extension to your chrome.
 
-![](../../.gitbook/assets/image%20%28141%29.png)
+![](../../.gitbook/assets/image%20%28147%29.png)
 
 Setup Math Wallet via chrome extension.
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 
 
 ### 2. Go to Bloks.io. Click Login at the top right corner.
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 ### 3. Select Math/Leaf in the Connect To Wallet pop up window. 
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28168%29.png)
 
 ### 4. Math Wallet will prompt you to select the account to be used on Bloks.io.
 
 Press Accept to continue logging in to Bloks.io using Math Wallet.
 
-![](../../.gitbook/assets/image%20%28143%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
 
 
 ### 5. Confirm that you are successfully logged in.
 
-![](../../.gitbook/assets/image%20%28146%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
 You should see your account username in the top right corner if you have successfully logged in.
 
@@ -63,21 +63,21 @@ You should see your account username in the top right corner if you have success
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28108%29.png)
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 ### 2. Go to Bloks.io. Click Login at the top right corner.
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 ### 3. Select Math/Leaf in the Connect To Wallet pop up window. 
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28168%29.png)
 
 ### 4. Confirm that you are successfully logged in.
 
-![](../../.gitbook/assets/image%20%28146%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
 You should see your account username in the top right corner if you have successfully logged in.
 

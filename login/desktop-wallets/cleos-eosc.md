@@ -14,13 +14,13 @@ eosc is built by leading block producer EOS Canada and a lightweight alternative
 
 ### 1. Download and install cleos/eosc. 
 
-![](../../.gitbook/assets/image%20%28144%29.png)
+![](../../.gitbook/assets/image%20%28150%29.png)
 
 ### 2. Go to Bloks.io. Click Login at the top right corner.
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 ### 3. Select cleos/eosc in the Connect To Wallet pop up window. 
 
-![](../../.gitbook/assets/image%20%28152%29.png)
+![](../../.gitbook/assets/image%20%28159%29.png)
 

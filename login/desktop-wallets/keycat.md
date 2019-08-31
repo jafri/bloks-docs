@@ -8,11 +8,11 @@ Keycat is a easy authenticator created by the [EOSDAQ team](https://eosdaq.com/)
 
 ### 1. Go to Bloks.io. Click Login at the top right corner. <a id="1-download-and-install-eostock-here"></a>
 
-![](../../.gitbook/assets/image%20%28123%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 ### 2. Select Keycat in the Connect To Wallet pop up window. 
 
-![](../../.gitbook/assets/image%20%28133%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
 ### 3. First, click “Import Account” in order to import your EOS account into Keycat. Then, input your EOS account and Private Key and press “Next”.
 
@@ -20,7 +20,7 @@ Keycat is a easy authenticator created by the [EOSDAQ team](https://eosdaq.com/)
 
 Click Import Account if you've never setup Keycat before. It will take you to the follow screen below, where you enter your Account \(your EOS username\) and a field to enter your Private Key. Click Next when completed.
 
-![](../../.gitbook/assets/image%20%28129%29.png)
+![](../../.gitbook/assets/image%20%28135%29.png)
 
 
 
@@ -32,7 +32,7 @@ You must select "Save" to use the one-click login function continuously in the f
 
 ### 5. Confirm that you are successfully logged in.
 
-![](../../.gitbook/assets/image%20%2838%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 You should see your account username in the top right corner if you have successfully logged in.
 
