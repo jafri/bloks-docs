@@ -15,9 +15,9 @@
   * [SimplEOS](login/desktop-wallets/simpleos.md)
   * [Trezor](login/desktop-wallets/trezor.md)
 * [Mobile Wallets](login/mobile-wallets/README.md)
-  * [NovaWallet](login/mobile-wallets/novawallet.md)
+  * [NOVA Wallet](login/mobile-wallets/novawallet.md)
   * [TokenPocket](login/mobile-wallets/tokenpocket.md)
-  * [Meetone](login/mobile-wallets/meetone.md)
+  * [MEET.ONE](login/mobile-wallets/meetone.md)
   * [Lynx](login/mobile-wallets/lynx.md)
 
 ## Wallet
