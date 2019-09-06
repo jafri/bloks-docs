@@ -9,7 +9,6 @@ Math Wallet supports a number of high performing public chains including but not
 * BOS
 * Telos
 * WORBLI
-* And more..
 
 {% embed url="https://www.mathwallet.org/en/" %}
 
