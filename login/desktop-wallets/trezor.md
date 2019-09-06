@@ -1,5 +1,21 @@
 # Trezor
 
+Trezor is a hardware wallet to store your crypto offline rather than online. Currently they support;
+
+* Bitcoin
+* Litecoin
+* Bitcoin Cash
+* Bitcoin Gold
+* Dash
+* Zcash
+* NEM
+* Ethereum
+* Ethereum Classic
+
+{% embed url="https://trezor.io/" %}
+
+## LOGIN TO BLOKS.IO USING TREZOR
+
 ### **1. Go to Wallet on the top menu.**
 
 ![](../../.gitbook/assets/image%20%2817%29.png)
