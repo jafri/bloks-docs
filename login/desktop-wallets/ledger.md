@@ -2,6 +2,8 @@
 
 This quick guide will walk you through how to use your EOS account with a [Ledger Nano X ](https://shop.ledger.com/products/ledger-nano-x)or [Ledger Nano S.](https://shop.ledger.com/products/ledger-nano-s/) This allows you to use [Bloks.io](https://bloks.io/), the most comprehensive EOSIO Portal, with the added security of a hardware wallet from the convenience of your browser.
 
+{% embed url="https://www.ledger.com/" %}
+
 ## LOGIN TO BLOKS.IO USING LEDGER S/X
 
 ### 1. Prepare Ledger S/X.
@@ -15,13 +17,13 @@ If you haven’t completed these steps, [click here](https://support.ledger.com/
 
 ### 2. Go to Bloks.io. Click Login at the top right corner. 
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
  Head to [Bloks.io](https://bloks.io/) and click on the Login Button on the top right-hand side of the page.
 
 ### 3. Log into Bloks.io with your Nano Ledger S/X. Select Ledger X or Ledger S as a sign-in option.
 
-![](../../.gitbook/assets/image%20%28165%29.png)
+![](../../.gitbook/assets/image%20%28169%29.png)
 
 Find **Ledger X or Ledger S** as a sign-in option and select it.
 
@@ -29,7 +31,7 @@ Find **Ledger X or Ledger S** as a sign-in option and select it.
 
 Enter **“0,1,2"**, and select either USB or Bluetooth.
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28129%29.png)
 
 If this is the first time using your Ledger, you will see a message similar to the image above stating there are “**No Accounts Found**”. This is to be expected. **Copy** one of the **public keys** displayed onto a notepad.
 
@@ -39,7 +41,7 @@ If you already have an EOS account on another wallet such as Scatter, proceed to
 
 ### 4. Log into your existing account.
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28178%29.png)
 
 Head over to [Bloks Permission Manager.](https://bloks.io/wallet/permissions) Log into your existing EOS account using Scatter or another wallet. Make sure you log in with your **Owner Key**\(can change both Owner and Active\) or **Active Key** \(can only change Active\).
 
@@ -47,7 +49,7 @@ Paste your keys from Step 2 into the fields above and click **Change Permissions
 
 ### 5. Login to Bloks.io with your Ledger S/X and it will show you your account.
 
-![](../../.gitbook/assets/image%20%28136%29.png)
+![](../../.gitbook/assets/image%20%28140%29.png)
 
 Repeat all the steps in Step 2. This time [Bloks.io](https://bloks.io/) should show you the accounts associated with your Ledger key.
 

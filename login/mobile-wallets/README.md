@@ -10,5 +10,5 @@ Mobile wallets that are currently compatible with Bloks.io are;
 * Nova
 * Tokenpocket
 
-![](../../.gitbook/assets/image%20%28193%29.png)
+![](../../.gitbook/assets/image%20%28198%29.png)
 

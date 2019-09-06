@@ -18,11 +18,11 @@ There are 3 tabs available on the Manage Proxy page;
 
 ### 3. Under the Create/Delete tab, click Create Proxy.
 
-![](../.gitbook/assets/image%20%28189%29.png)
+![](../.gitbook/assets/image%20%28194%29.png)
 
 If you are using Scatter, you will receive a prompt to whitelist the action to change your current account into a proxy.
 
-![](../.gitbook/assets/image%20%28169%29.png)
+![](../.gitbook/assets/image%20%28174%29.png)
 
 You will receive a Success message with the transaction hash and you have turned your account into a proxy.
 
@@ -46,7 +46,7 @@ There are 3 tabs available on the Manage Proxy page;
 
 ### 3. Under the Register tab, fill out the fields as needed. Click Register Proxy once completed.
 
-![](../.gitbook/assets/image%20%28124%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 Filling out this form will add details about your proxy to the regproxyinfo contract, but it does not create your account as a proxy. You must follow the details above on HOW TO CREATE A PROXY to create your account as a proxy.
 

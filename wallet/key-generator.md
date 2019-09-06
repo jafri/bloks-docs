@@ -8,11 +8,11 @@
 
 ### 2. Select Utilities ****from the left side menu.
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 ### 3. Under the Keys tab, Bloks provides you a key pairing with a Public Key and a Private Key. 
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
 The icon next to the keys allow you to copy the key quickly. Click Generate New Keys if you would like a different key paring. 
 

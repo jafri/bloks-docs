@@ -24,7 +24,7 @@ Make sure the app stays active and the window is open while you interact with Bl
 
 ### 2. Go to Bloks.io. Click Login at the top right corner.
 
-![](../../.gitbook/assets/image%20%28154%29.png)
+![](../../.gitbook/assets/image%20%28158%29.png)
 
 ### 3. Select Anchor in the Connect To Wallet pop up window. 
 
@@ -32,13 +32,13 @@ Make sure the app stays active and the window is open while you interact with Bl
 
 ### 4. Anchor will prompt you to enter your account name and select the permission to be used on Bloks.io.
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
 If you don't understand the difference between active, owner, and vote permissions, read more about it here.
 
 ### 5. Confirm that you are successfully logged in.
 
-![](../../.gitbook/assets/image%20%28167%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
 You should see your account username in the top right corner if you have successfully logged in.
 

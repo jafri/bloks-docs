@@ -20,7 +20,7 @@ It will display two permissions, \#1 Owner and \#2 Active.
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-![](../../.gitbook/assets/image%20%28127%29.png)
+![](../../.gitbook/assets/image%20%28131%29.png)
 
 Click Add New Permission, which will create Permission \#3 where you are able to set the Permission Name, Parent, Threshold, Add Key , Add Account and Add Wait.
 
@@ -32,7 +32,7 @@ Once you've filled in all the fields required, press Save Permission.
 
 ### 4. When prompted by Scatter, review the action and click allow when you are certain it is correct.
 
-![](../../.gitbook/assets/image%20%28134%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 

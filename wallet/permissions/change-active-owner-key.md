@@ -30,19 +30,19 @@ The Keys and Permissions page displays 3 tabs;
 
 If you are logged in with your Owner Key, you should see two fields; New Owner Key and New Active Key.
 
-![When you are logged in with your Owner Key](../../.gitbook/assets/image%20%2893%29.png)
+![When you are logged in with your Owner Key](../../.gitbook/assets/image%20%2897%29.png)
 
-![When you are logged in with your Active Key](../../.gitbook/assets/image%20%28152%29.png)
+![When you are logged in with your Active Key](../../.gitbook/assets/image%20%28156%29.png)
 
 ### 3. Enter your New Active/Owner Key in the respective field. Click Change Permissions.
 
 You can generate new keys by using various methods. The most secure method is to generate a key pairing while you are offline using EOSKEY.io and storing the private key offline where it is safe.
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28110%29.png)
 
 Confirm that the New Active Key displays under the New Permissions tab identically. Click the Change Permissions button and confirm that the key has been changed when you receive a transaction hash with a Success message.
 
-![](../../.gitbook/assets/image%20%2872%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
 ## Potential Errors
 
@@ -52,13 +52,13 @@ Confirm that the New Active Key displays under the New Permissions tab identical
 You will need to open up Scatter, go to Settings, Firewall, and remove updateauth as a Blacklisted Action.
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2897%29.png)
-
-![](../../.gitbook/assets/image%20%28204%29.png)
-
-
-
 ![](../../.gitbook/assets/image%20%28101%29.png)
+
+![](../../.gitbook/assets/image%20%28209%29.png)
+
+
+
+![](../../.gitbook/assets/image%20%28105%29.png)
 
 
 

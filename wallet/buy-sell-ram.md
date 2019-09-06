@@ -10,7 +10,7 @@ RAM
 
 ### 2. Select Buy/Sell RAM ****from the left side menu.
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28125%29.png)
 
 The Buy/Sell RAM page has 2 tabs available;
 
@@ -26,7 +26,7 @@ The Buy/Sell RAM page has 2 tabs available;
 
 ### **3.** Select the Buy RAM tab and fill out RAM Receiver and the Amount of RAM to Buy \(Bytes OR EOS\). Click the blue Buy RAM button to finalize action.
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 ## HOW TO SELL RAM
 
@@ -36,11 +36,11 @@ The Buy/Sell RAM page has 2 tabs available;
 
 ### 2. Select Buy/Sell RAM ****from the left side menu.
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28125%29.png)
 
 ### 3. Select the Sell RAM tab and fill out the Amount of RAM to Sell \(Bytes\). Click the blue Sell RAM button to finalize action.
 
-![](../.gitbook/assets/image%20%28195%29.png)
+![](../.gitbook/assets/image%20%28200%29.png)
 
 You can enter a value manually or select one of the buttons below the field to auto-calculate 25, 50, 75 or 100% of the available RAM on your account.
 
