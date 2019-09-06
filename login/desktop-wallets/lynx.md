@@ -12,19 +12,19 @@ Lynx is a non-custodial wallet and supports multiple chains such as EOS, Telos, 
 
 ![](../../.gitbook/assets/image%20%2826%29.png)
 
-### 2. On the Lynx Desktop app, go to the Apps tab.
+### 2. On the Lynx Desktop app, go to the "Apps" tab.
 
 ![](../../.gitbook/assets/image%20%2867%29.png)
 
-### 3. Scroll down to find Bloks.io under Utilities.
-
-Click on Bloks.io under Utilities to interact with Bloks.io directly from Lynx's desktop wallet.
+### 3. Scroll down to find "Bloks.io" under "Utilities".
 
 ![](../../.gitbook/assets/image%20%2887%29.png)
 
+Click on "Bloks.io" under "Utilities" to interact with Bloks.io directly from Lynx's desktop wallet.
+
 ### 4. Confirm that you are successfully logged in.
 
-You are successfully interacting with Bloks.io via Lynx Desktop wallet.
-
 ![](../../.gitbook/assets/image%20%2886%29.png)
+
+You are successfully interacting with Bloks.io Lynx desktop wallet.
 
