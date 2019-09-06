@@ -13,7 +13,7 @@ TokenPocket is a universal digital wallet, and supports many blockchains includi
 * Jingtum
 * ENU
 
-![](../../.gitbook/assets/image%20%28137%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
 {% hint style="info" %}
 **FOR IOS USERS** - Please be aware that there are two versions of TokenPocket available - TokenPocket and TokenPocket Pro. To login to Bloks.io on iOS, **you must download TokenPocket Pro** and use it through TestFlight. Click [here](https://download.tokenpocket.pro/index.html#/?platform=ios) to find the download link for TokenPocket and TokenPocket Pro for iOS. You can also read more about it [here on TokenPocket's medium post](https://medium.com/@tokenpocket.gm/tokenpocket-pro-is-live-with-a-built-in-dapp-store-f32431f64ed9).
@@ -25,13 +25,13 @@ TokenPocket is a universal digital wallet, and supports many blockchains includi
 
 ### 1. Download and install TokenPocket. <a id="1-download-and-install-nova-wallet"></a>
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 TokenPocket is available for download on iOS, Android, and Desktop.
 
 ### 2. Start the app on your mobile. Go to the main page, and click "Discover". <a id="2-start-the-app-on-your-mobile-go-to-the-main-page-and-click-more"></a>
 
-![](../../.gitbook/assets/image%20%28206%29.png)
+![](../../.gitbook/assets/image%20%28208%29.png)
 
 ### 3. You can either type in Bloks at the top search bar or scroll down to Block Explorer to find Bloks.io. <a id="3-click-discovery-under-more"></a>
 
@@ -41,7 +41,7 @@ TokenPocket is available for download on iOS, Android, and Desktop.
 
 ### 4. TokenPocket will prompt you with a message that you are being redirected to Bloks. Click Understood. <a id="4-scroll-down-to-tool-section-and-click-on-bloks"></a>
 
-![](../../.gitbook/assets/image%20%2866%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 ### 5. Confirm that you are successfully logged in. <a id="5-nova-wallet-will-prompt-you-to-select-the-account-you-would-like-to-use-to-interact-with-bloks-io"></a>
 

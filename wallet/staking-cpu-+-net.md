@@ -10,11 +10,11 @@ The process of unstaking your EOS takes a **total of 72 hours** from the moment 
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%28113%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 
 ### 2. Select **Stake CPU/NET** from the left side menu.
 
-![](../.gitbook/assets/image%20%28201%29.png)
+![](../.gitbook/assets/image%20%28203%29.png)
 
 The Stake CPU/NET should show three tabs;
 
@@ -24,7 +24,7 @@ The Stake CPU/NET should show three tabs;
 
 ### 3. Select the Stake tab.
 
-![](../.gitbook/assets/image%20%2874%29.png)
+![](../.gitbook/assets/image%20%2875%29.png)
 
 If you are logged into your account via a wallet supported by Bloks \(Scatter, Ledger, etc.\), the field Receiver of Stake should be autofilled.
 
@@ -32,25 +32,25 @@ If you are logged into your account via a wallet supported by Bloks \(Scatter, L
 
 To make the process more simple, there are buttons to select a percentage of your EOS holdings - 25, 50, 75 and 100%.
 
-![](../.gitbook/assets/image%20%2869%29.png)
+![](../.gitbook/assets/image%20%2870%29.png)
 
 ### 5. Click the blue button Stake to confirm the amount of CPU/NET you are staking.
 
-![](../.gitbook/assets/image%20%28114%29.png)
+![](../.gitbook/assets/image%20%28116%29.png)
 
 ## HOW TO UNSTAKE EOS
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%2857%29.png)
+![](../.gitbook/assets/image%20%2858%29.png)
 
 ### 2. Select **Stake CPU/NET** from the left side menu.
 
-![](../.gitbook/assets/image%20%28201%29.png)
+![](../.gitbook/assets/image%20%28203%29.png)
 
 ### 3. Select the Unstake tab.
 
-![](../.gitbook/assets/image%20%2894%29.png)
+![](../.gitbook/assets/image%20%2895%29.png)
 
 There are 3 fields to fill out;
 
@@ -61,6 +61,12 @@ There are 3 fields to fill out;
 ### 4. Press the blue button Unstake to complete transaction.
 
 
+
+## REFUND
+
+If you followed the above instructions to unstake CPU / NET, you should receive the amount in 72 hours. You can check how much you will be receiving and how much time is left on the Refund tab in Stake CPU / NET. If for whatever reason, you did not receive the refund amount back, check back on this page and click the blue Refund button to manually process the refund.
+
+![](../.gitbook/assets/image%20%2829%29.png)
 
 
 

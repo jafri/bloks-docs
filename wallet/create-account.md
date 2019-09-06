@@ -12,11 +12,11 @@ If you don't currently have an EOS account or know anyone who can create an acco
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 ### 2. Select Create Account ****from the left side menu.
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 The Create Account page has 2 tabs to give users a preferred method to create an account;
 

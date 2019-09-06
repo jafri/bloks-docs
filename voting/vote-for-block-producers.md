@@ -8,7 +8,7 @@ In order to vote, you must stake your EOS. Please visit "Staking + Unstaking" fo
 
 ### 1. Select **Vote** on the top menu.
 
-![](../.gitbook/assets/image%20%28146%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
 ### 2. Select Block Producers if you are not already on the tab.
 
@@ -18,7 +18,7 @@ Block Producers are listed in order of the current rankings.
 
 ### 3. Select the Block Producers you wish to vote for by checking off the boxes next to their ranking and BP name. Press the blue VOTE button to proceed.
 
-![](../.gitbook/assets/image%20%28175%29.png)
+![](../.gitbook/assets/image%20%28177%29.png)
 
 You can CTRL+F \(windows\) or Command+F \(mac\) to find the name of the BP you'd like to select to vote for. Your selections will show at the top underneath **Selected Producers**.
 
