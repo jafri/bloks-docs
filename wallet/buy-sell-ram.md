@@ -1,6 +1,6 @@
 # Buy / Sell RAM
 
-RAM 
+RAM stands for Random Access Memory; it is a form of computer data storage that stores data and code currently being used. EOS RAM is a resource required for dApp developers for their smart contracts to be deployed. 
 
 ## HOW TO BUY RAM
 
