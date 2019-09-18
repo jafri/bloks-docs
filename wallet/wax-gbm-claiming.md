@@ -2,7 +2,9 @@
 
 WAX Genesis Block Member \(GBM\) program is for anyone who have participated in the WAX Token Swap. All WAX Protocol Tokens generated during the token swap \(June 30th 2019 - August 30th 2019\) will be designated Genesis WAX Protocol Tokens. The WAX Token Swap is the only time that WAX Protocol Tokens will be designated Genesis WAX Protocol Tokens.
 
-For more information about WAX GBM program and more, check out their official blog on their website below.
+For more information on the GBM program, please visit [WAX's official blog](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years). 
+
+For more information on Vote Claim, please visit [here](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more). 
 
 {% embed url="https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years" %}
 
@@ -45,8 +47,4 @@ You will also have 3 buttons;
 * **Claim Both** - Claim both Genesis and Vote rewards
 
 Click 1 of the 3 buttons to claim your rewards. 
-
-For more information on the GBM program, please visit [WAX's official blog](https://wax.io/blog/introducing-the-genesis-block-member-program-join-and-receive-daily-token-rewards-for-3-years). 
-
-For more information on Vote Claim, please visit [here](https://wax.io/blog/earn-more-wax-introducing-wax-block-rewards-staking-and-voting-guilds-and-more). 
 
