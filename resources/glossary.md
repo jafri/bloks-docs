@@ -6,5 +6,3 @@ EOS Canada has created a glossary of terms for EOS users. If there are any termi
 
 ![](../.gitbook/assets/image%20%28194%29.png)
 
-
-
