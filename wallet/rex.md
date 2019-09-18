@@ -8,7 +8,7 @@ REX allows dApps to rent bandwidth for a fraction of the capital cost of owning 
 It is important to note that **borrowing CPU/NET is for dApps to buy resources only**, you will **not** get the EOS spent back.
 {% endhint %}
 
-![A diagram of how REX works on EOS Mainnet](../.gitbook/assets/image%20%2842%29.png)
+![A diagram of how REX works on EOS Mainnet](../.gitbook/assets/image%20%2853%29.png)
 
 ## **STEPS TO EARN WITH REX**
 
@@ -22,11 +22,11 @@ It is important to note that **borrowing CPU/NET is for dApps to buy resources o
 
 ### 1. Select **REX** on the top menu.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ### 2. Select the amount of EOS you'd like to lend. 
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2881%29.png)
 
 It will autofill with the 100% of EOS in your account, but you are free to enter whatever amount you’d like, or use the buttons below to easily select a percentage of your EOS owned.
 
@@ -34,7 +34,7 @@ _NOTE: If you are not currently voting for 21 BPs or proxying your vote, Bloks w
 
 ### 3. View the amount you lent to REX, and the date you are able to unlend.
 
-![](../.gitbook/assets/image%20%28181%29.png)
+![](../.gitbook/assets/image%20%28221%29.png)
 
 It takes approximately 4 days for loaned EOS to be processed. The example below shows that you have to wait until Sat, May 4, 2019 6:00 PM to Unlend your EOS.This page allows you to lend liquid EOS.
 
@@ -50,15 +50,15 @@ It takes approximately 4 days for loaned EOS to be processed. The example below 
 
 ### 1. Select **REX** on the top menu.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 ### 2. Select the amount of EOS you'd like to unlend.
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](../.gitbook/assets/image%20%28253%29.png)
 
 ### 3. View the amount you lent to REX, and the date you are able to unlend.
 
-![](../.gitbook/assets/image%20%28181%29.png)
+![](../.gitbook/assets/image%20%28221%29.png)
 
 When you reach the mature day of your EOS in REX, you are able to Unlend. You can select the full amount or auto-calculate by the percentage buttons.
 

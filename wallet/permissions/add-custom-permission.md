@@ -6,11 +6,11 @@ You can create custom permissions to allow only certain functions to happen.
 
 ### 1. Select **Wallet** on the top menu.
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 ### 2. Select Keys and Permissions ****from the left side menu.
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 Click on the Advanced tab.
 
@@ -18,9 +18,9 @@ It will display two permissions, \#1 Owner and \#2 Active.
 
 ### 3. Click Add New Permission. Enter required fields and click Save Permission.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
-![](../../.gitbook/assets/image%20%28133%29.png)
+![](../../.gitbook/assets/image%20%28162%29.png)
 
 Click Add New Permission, which will create Permission \#3 where you are able to set the Permission Name, Parent, Threshold, Add Key , Add Account and Add Wait.
 
@@ -32,9 +32,9 @@ Once you've filled in all the fields required, press Save Permission.
 
 ### 4. When prompted by Scatter, review the action and click allow when you are certain it is correct.
 
-![](../../.gitbook/assets/image%20%28140%29.png)
+![](../../.gitbook/assets/image%20%28171%29.png)
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 When updateauth is approved, you will receive a Success message with a transaction hash. Your new permission has been created. Follow the next guide Linkauth to learn how to link an authorization to the new permission you've just created!
 

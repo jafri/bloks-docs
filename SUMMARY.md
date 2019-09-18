@@ -11,8 +11,10 @@
   * [Ledger](login/desktop-wallets/ledger.md)
   * [Lynx](login/desktop-wallets/lynx.md)
   * [Math/Leaf](login/desktop-wallets/math-leaf.md)
-  * [Scatter](login/desktop-wallets/scatter.md)
+  * [Scatter](login/desktop-wallets/scatter/README.md)
+    * [Download & Install](login/desktop-wallets/scatter/download-and-install.md)
   * [SimplEOS](login/desktop-wallets/simpleos.md)
+  * [TokenPocket](login/desktop-wallets/tokenpocket.md)
   * [Trezor](login/desktop-wallets/trezor.md)
 * [Mobile Wallets](login/mobile-wallets/README.md)
   * [Lynx](login/mobile-wallets/lynx.md)
@@ -35,6 +37,7 @@
 * [Create / Register Proxy](wallet/create-and-register-proxy.md)
 * [Keys Generator](wallet/key-generator.md)
 * [REX](wallet/rex.md)
+* [WAX GBM Claiming](wallet/wax-gbm-claiming.md)
 
 ## Voting
 
@@ -45,4 +48,8 @@
 ## Brand Materials
 
 * [Bloks.io Logos](brand-materials/untitled.md)
+
+## Resources
+
+* [Glossary](resources/glossary.md)
 

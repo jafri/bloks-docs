@@ -10,5 +10,6 @@ Desktop wallets are wallets that you can access through your computer. Desktop w
 * [Math/Leaf](https://docs.bloks.io/login/desktop-wallets/math-leaf) 
 * [Scatter](https://docs.bloks.io/login/desktop-wallets/scatter) 
 * [SimplEOS](https://docs.bloks.io/login/desktop-wallets/simpleos) 
+* [TokenPocket](https://docs.bloks.io/login/desktop-wallets/TokenPocket)
 * [Trezor](https://docs.bloks.io/login/desktop-wallets/trezor) 
 

@@ -14,31 +14,31 @@ eosc is built by leading block producer EOS Canada and a lightweight alternative
 
 ### 1. Download and install cleos/eosc. 
 
-![](../../.gitbook/assets/image%20%28188%29.png)
+![](../../.gitbook/assets/image%20%28231%29.png)
 
 ### 2. Go to Bloks.io. Click Login at the top right corner.
 
-![](../../.gitbook/assets/image%20%28160%29.png)
+![](../../.gitbook/assets/image%20%28197%29.png)
 
 ### 3. Select cleos/eosc in the Connect To Wallet pop up window. 
 
-![](../../.gitbook/assets/image%20%28197%29.png)
+![](../../.gitbook/assets/image%20%28242%29.png)
 
 ### 4. Enter your account name 
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2847%29.png)
 
 ### 5. Confirm that you are successfully logged in.
 
-![](../../.gitbook/assets/image%20%28125%29.png)
+![](../../.gitbook/assets/image%20%28153%29.png)
 
 You should see your account username in the top right corner if you have successfully logged in.
 
 ### 6. Do a transaction - copy and paste the cleos/eosc command. 
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28201%29.png)
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 
 
