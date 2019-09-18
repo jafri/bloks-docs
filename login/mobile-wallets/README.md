@@ -4,11 +4,10 @@ Mobile wallets allow you to access your EOS accounts on your phone. Some of thes
 
 Mobile wallets that are currently compatible with Bloks.io are;
 
-* Keycat
-* Lynx
-* Meet.one
-* Nova
-* Tokenpocket
+* [Lynx](https://docs.bloks.io/login/mobile-wallets/lynx)
+* [Meet.one](https://docs.bloks.io/login/mobile-wallets/meetone)
+* [Nova](https://docs.bloks.io/login/mobile-wallets/novawallet)
+* [TokenPocket](https://docs.bloks.io/login/mobile-wallets/tokenpocket)
 
 ![](../../.gitbook/assets/image%20%28245%29.png)
 

@@ -2,10 +2,6 @@
 
 Lynx mobile is available on both the App Store and the Google Play store. 
 
-{% hint style="info" %}
-\*\*\*\*
-{% endhint %}
-
 {% embed url="https://lynxwallet.io/" %}
 
 ## LOGIN TO BLOKS.IO USING LYNX \(iOS\)
